@@ -1,0 +1,1688 @@
+fileFormatVersion: 2
+guid: b483d75bf83ada0458659f3fb29f821e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2545937265854038346
+    second: PC Computer - Miku n Pop - Miku Hatsune_0
+  - first:
+      213: 6981201966778789981
+    second: PC Computer - Miku n Pop - Miku Hatsune_1
+  - first:
+      213: -7645407760861564199
+    second: PC Computer - Miku n Pop - Miku Hatsune_2
+  - first:
+      213: 2496709017598491080
+    second: PC Computer - Miku n Pop - Miku Hatsune_3
+  - first:
+      213: 5516601926867958077
+    second: PC Computer - Miku n Pop - Miku Hatsune_4
+  - first:
+      213: 1821444844869679927
+    second: PC Computer - Miku n Pop - Miku Hatsune_5
+  - first:
+      213: -6780826717691264542
+    second: PC Computer - Miku n Pop - Miku Hatsune_6
+  - first:
+      213: 3465170047762964875
+    second: PC Computer - Miku n Pop - Miku Hatsune_7
+  - first:
+      213: 1541391262104982815
+    second: PC Computer - Miku n Pop - Miku Hatsune_8
+  - first:
+      213: 6051146023283196410
+    second: PC Computer - Miku n Pop - Miku Hatsune_9
+  - first:
+      213: -2532336591648304924
+    second: PC Computer - Miku n Pop - Miku Hatsune_10
+  - first:
+      213: 4001277009357592464
+    second: PC Computer - Miku n Pop - Miku Hatsune_11
+  - first:
+      213: -6523304110821929316
+    second: PC Computer - Miku n Pop - Miku Hatsune_12
+  - first:
+      213: -7713135915368194628
+    second: PC Computer - Miku n Pop - Miku Hatsune_13
+  - first:
+      213: 6951424566794541698
+    second: PC Computer - Miku n Pop - Miku Hatsune_14
+  - first:
+      213: -2776692269598130023
+    second: PC Computer - Miku n Pop - Miku Hatsune_15
+  - first:
+      213: -4745326552019264383
+    second: PC Computer - Miku n Pop - Miku Hatsune_16
+  - first:
+      213: 4859395262857744289
+    second: PC Computer - Miku n Pop - Miku Hatsune_17
+  - first:
+      213: 2586908712245902835
+    second: PC Computer - Miku n Pop - Miku Hatsune_18
+  - first:
+      213: 6733657661963546746
+    second: PC Computer - Miku n Pop - Miku Hatsune_19
+  - first:
+      213: 4101553545095718164
+    second: PC Computer - Miku n Pop - Miku Hatsune_20
+  - first:
+      213: -1423598519551600268
+    second: PC Computer - Miku n Pop - Miku Hatsune_21
+  - first:
+      213: 8669535388705601447
+    second: PC Computer - Miku n Pop - Miku Hatsune_22
+  - first:
+      213: -5574179842575892312
+    second: PC Computer - Miku n Pop - Miku Hatsune_23
+  - first:
+      213: 7743290371309998753
+    second: PC Computer - Miku n Pop - Miku Hatsune_24
+  - first:
+      213: 5893371366219545077
+    second: PC Computer - Miku n Pop - Miku Hatsune_25
+  - first:
+      213: 344197807364233683
+    second: PC Computer - Miku n Pop - Miku Hatsune_26
+  - first:
+      213: -5557618844787061666
+    second: PC Computer - Miku n Pop - Miku Hatsune_27
+  - first:
+      213: 855710200591940107
+    second: PC Computer - Miku n Pop - Miku Hatsune_28
+  - first:
+      213: -5192937772888240775
+    second: PC Computer - Miku n Pop - Miku Hatsune_29
+  - first:
+      213: -3204026587474422002
+    second: PC Computer - Miku n Pop - Miku Hatsune_30
+  - first:
+      213: -5305772166803351215
+    second: PC Computer - Miku n Pop - Miku Hatsune_31
+  - first:
+      213: 9022730548973370246
+    second: PC Computer - Miku n Pop - Miku Hatsune_32
+  - first:
+      213: 1774456717655330551
+    second: PC Computer - Miku n Pop - Miku Hatsune_33
+  - first:
+      213: 1714561096227679402
+    second: PC Computer - Miku n Pop - Miku Hatsune_34
+  - first:
+      213: 3113516421278101006
+    second: PC Computer - Miku n Pop - Miku Hatsune_35
+  - first:
+      213: -7374169787521887996
+    second: PC Computer - Miku n Pop - Miku Hatsune_36
+  - first:
+      213: 2518238777474363451
+    second: PC Computer - Miku n Pop - Miku Hatsune_37
+  - first:
+      213: -2768377667630460010
+    second: PC Computer - Miku n Pop - Miku Hatsune_38
+  - first:
+      213: 6165362158244507065
+    second: PC Computer - Miku n Pop - Miku Hatsune_39
+  - first:
+      213: -6279208684936820283
+    second: PC Computer - Miku n Pop - Miku Hatsune_40
+  - first:
+      213: -4447224188161241537
+    second: PC Computer - Miku n Pop - Miku Hatsune_41
+  - first:
+      213: -4937512794176301286
+    second: PC Computer - Miku n Pop - Miku Hatsune_42
+  - first:
+      213: 4802853200968806530
+    second: PC Computer - Miku n Pop - Miku Hatsune_43
+  - first:
+      213: 3330463895493873547
+    second: PC Computer - Miku n Pop - Miku Hatsune_44
+  - first:
+      213: -667829995317215793
+    second: PC Computer - Miku n Pop - Miku Hatsune_45
+  - first:
+      213: 3469145875173676091
+    second: PC Computer - Miku n Pop - Miku Hatsune_46
+  - first:
+      213: -3331405787867060452
+    second: PC Computer - Miku n Pop - Miku Hatsune_47
+  - first:
+      213: 3448726945693435546
+    second: PC Computer - Miku n Pop - Miku Hatsune_48
+  - first:
+      213: -8590364761808893587
+    second: PC Computer - Miku n Pop - Miku Hatsune_49
+  - first:
+      213: -6458715012620358895
+    second: PC Computer - Miku n Pop - Miku Hatsune_50
+  - first:
+      213: -2890145522034411121
+    second: PC Computer - Miku n Pop - Miku Hatsune_51
+  - first:
+      213: 2676615083937299822
+    second: PC Computer - Miku n Pop - Miku Hatsune_52
+  - first:
+      213: -4075713700516559583
+    second: PC Computer - Miku n Pop - Miku Hatsune_53
+  - first:
+      213: -6711901614707387673
+    second: PC Computer - Miku n Pop - Miku Hatsune_54
+  - first:
+      213: 9021920610483254994
+    second: PC Computer - Miku n Pop - Miku Hatsune_55
+  - first:
+      213: -6258429147128061645
+    second: PC Computer - Miku n Pop - Miku Hatsune_56
+  - first:
+      213: -5407111348274574882
+    second: PC Computer - Miku n Pop - Miku Hatsune_57
+  - first:
+      213: -5290142751973466334
+    second: PC Computer - Miku n Pop - Miku Hatsune_58
+  - first:
+      213: -6849988267165511236
+    second: PC Computer - Miku n Pop - Miku Hatsune_59
+  - first:
+      213: 7721164372104552208
+    second: PC Computer - Miku n Pop - Miku Hatsune_60
+  - first:
+      213: -6965687483091494287
+    second: PC Computer - Miku n Pop - Miku Hatsune_61
+  - first:
+      213: 8156159410277216701
+    second: PC Computer - Miku n Pop - Miku Hatsune_62
+  - first:
+      213: 8063298558027748545
+    second: PC Computer - Miku n Pop - Miku Hatsune_63
+  - first:
+      213: -3712342345994335970
+    second: PC Computer - Miku n Pop - Miku Hatsune_64
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 433
+        width: 53
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be3750bb830bacd0800000000000000
+      internalID: -2545937265854038346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 433
+        width: 52
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50bb17633632e060800000000000000
+      internalID: 6981201966778789981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 433
+        width: 53
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2f4da062e06e590800000000000000
+      internalID: -7645407760861564199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_3
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 433
+        width: 52
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9f8759f9716a220800000000000000
+      internalID: 2496709017598491080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_4
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 433
+        width: 49
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39333a6938ee8c40800000000000000
+      internalID: 5516601926867958077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_5
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 433
+        width: 51
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b7c6c9f62174910800000000000000
+      internalID: 1821444844869679927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 433
+        width: 51
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1c880d60aa5e1a0800000000000000
+      internalID: -6780826717691264542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_7
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 433
+        width: 51
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b812c379cc1c61030800000000000000
+      internalID: 3465170047762964875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_8
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 433
+        width: 51
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1598adaf2f146510800000000000000
+      internalID: 1541391262104982815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_9
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 433
+        width: 51
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af100d17f3df9f350800000000000000
+      internalID: 6051146023283196410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_10
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 433
+        width: 53
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0541b69455bdcd0800000000000000
+      internalID: -2532336591648304924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_11
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 433
+        width: 52
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09752b68d34678730800000000000000
+      internalID: 4001277009357592464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_12
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 433
+        width: 53
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e0d9029719875a0800000000000000
+      internalID: -6523304110821929316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_13
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 433
+        width: 52
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbddb2c30cf65f490800000000000000
+      internalID: -7713135915368194628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_14
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 433
+        width: 49
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a56b230db687060800000000000000
+      internalID: 6951424566794541698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_15
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 433
+        width: 51
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990c704a7153779d0800000000000000
+      internalID: -2776692269598130023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_16
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 433
+        width: 51
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c99ab84a6352eb0800000000000000
+      internalID: -4745326552019264383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_17
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 433
+        width: 51
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af0ad1de3a007340800000000000000
+      internalID: 4859395262857744289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_18
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 433
+        width: 51
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdb7cb84cb86e320800000000000000
+      internalID: 2586908712245902835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_19
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 433
+        width: 51
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70bc6497f1c27d50800000000000000
+      internalID: 6733657661963546746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 372
+        width: 59
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415aca2e735abe830800000000000000
+      internalID: 4101553545095718164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_21
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 365
+        width: 58
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479da5360bc5e3ce0800000000000000
+      internalID: -1423598519551600268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_22
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 365
+        width: 56
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7b97bb080605870800000000000000
+      internalID: 8669535388705601447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_23
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 365
+        width: 59
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a00f1967f884a2b0800000000000000
+      internalID: -5574179842575892312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 370
+        width: 61
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a292a62191b57b60800000000000000
+      internalID: 7743290371309998753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_25
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 366
+        width: 70
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f979fc780679c150800000000000000
+      internalID: 5893371366219545077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_26
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 366
+        width: 74
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9d9680516d6c400800000000000000
+      internalID: 344197807364233683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_27
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 366
+        width: 67
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c437f2b1f5fd2b0800000000000000
+      internalID: -5557618844787061666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 267
+        width: 55
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0af5f8c4e710eb00800000000000000
+      internalID: 855710200591940107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_29
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 264
+        width: 46
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97dc942eb9afee7b0800000000000000
+      internalID: -5192937772888240775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_30
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 264
+        width: 42
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e071eaa5bc20983d0800000000000000
+      internalID: -3204026587474422002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_31
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 263
+        width: 56
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1591882535c1e56b0800000000000000
+      internalID: -5305772166803351215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_32
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 263
+        width: 69
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b7f9b31ad273d70800000000000000
+      internalID: 9022730548973370246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_33
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 263
+        width: 66
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fec625bbf220a810800000000000000
+      internalID: 1774456717655330551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_34
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 263
+        width: 55
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacea5e9b385bc710800000000000000
+      internalID: 1714561096227679402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_35
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 267
+        width: 71
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e60a460be653b20800000000000000
+      internalID: 3113516421278101006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_36
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 267
+        width: 61
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4011755f5afa9a990800000000000000
+      internalID: -7374169787521887996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_37
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 196
+        width: 52
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3039fe63d492f220800000000000000
+      internalID: 2518238777474363451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_38
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 196
+        width: 54
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69313c4cd2fb499d0800000000000000
+      internalID: -2768377667630460010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_39
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 197
+        width: 58
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdacc9a734cf8550800000000000000
+      internalID: 6165362158244507065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_40
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 196
+        width: 78
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c90bcf38f4cbd8a0800000000000000
+      internalID: -6279208684936820283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_41
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 197
+        width: 83
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ecf1cc9294842c0800000000000000
+      internalID: -4447224188161241537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_42
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 196
+        width: 76
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17dc25164e6a7bb0800000000000000
+      internalID: -4937512794176301286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_43
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 196
+        width: 69
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280f7182a8927a240800000000000000
+      internalID: 4802853200968806530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_44
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 196
+        width: 60
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f0d24744f283e20800000000000000
+      internalID: 3330463895493873547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 131
+        width: 56
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd34c658246bb6f0800000000000000
+      internalID: -667829995317215793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_46
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 131
+        width: 56
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b341dbb0bc1e42030800000000000000
+      internalID: 3469145875173676091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_47
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 131
+        width: 56
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17e083261874c1d0800000000000000
+      internalID: -3331405787867060452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_48
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 131
+        width: 56
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96006d82e65cdf20800000000000000
+      internalID: 3448726945693435546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_49
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 129
+        width: 71
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69095943c4e8c880800000000000000
+      internalID: -8590364761808893587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_50
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 69
+        width: 58
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11be74f6ae80e56a0800000000000000
+      internalID: -6458715012620358895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_51
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 70
+        width: 66
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89f3f9d5f324e7d0800000000000000
+      internalID: -2890145522034411121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_52
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 68
+        width: 79
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6df88ecc3f352520800000000000000
+      internalID: 2676615083937299822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_53
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1
+        width: 59
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1258482cbf72077c0800000000000000
+      internalID: -4075713700516559583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1
+        width: 52
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2def7ea098ad2a0800000000000000
+      internalID: -6711901614707387673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_55
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1
+        width: 59
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d631abbefc443d70800000000000000
+      internalID: 9021920610483254994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_56
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1
+        width: 61
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3312b7969d79529a0800000000000000
+      internalID: -6258429147128061645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_57
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1
+        width: 60
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed94c1970e416f4b0800000000000000
+      internalID: -5407111348274574882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_58
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1
+        width: 55
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f93890233a596b0800000000000000
+      internalID: -5290142751973466334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_59
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1
+        width: 59
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1910cb6f3ffe0a0800000000000000
+      internalID: -6849988267165511236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_60
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1
+        width: 52
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f91b38616172b60800000000000000
+      internalID: 7721164372104552208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_61
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1
+        width: 59
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a52f1d328e45f90800000000000000
+      internalID: -6965687483091494287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_62
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1
+        width: 61
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1780d35cf703170800000000000000
+      internalID: 8156159410277216701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_63
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1
+        width: 60
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4d92d315796ef60800000000000000
+      internalID: 8063298558027748545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Miku n Pop - Miku Hatsune_64
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1
+        width: 55
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e190e5e1e4c1b7cc0800000000000000
+      internalID: -3712342345994335970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

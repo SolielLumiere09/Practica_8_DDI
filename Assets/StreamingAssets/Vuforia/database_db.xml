@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ReisenUdongein" size="800.000000 800.000000" />
+    <ImageTarget name="1dollarUS" size="800.000000 341.447357" />
+    <ImageTarget name="hatsuneMiku" size="800.000000 1200.000000" />
+    <ImageTarget name="Koishi_komeji" size="800.000000 1277.470337" />
+    <ImageTarget name="KianaHerrcher" size="800.000000 1131.182739" />
+  </Tracking>
+</QCARConfig>
